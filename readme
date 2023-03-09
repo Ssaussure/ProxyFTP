@@ -1,2 +1,6 @@
 projet réalisé par Nina Girard et Allard Fabien
-Groupe E
+
+Ce projet est un proxy codé en C qui permet de rediriger le trafic réseau vers un autre serveur.
+Les fichiers du projet incluent un Makefile qui permet d'exécuter les fichiers rapidement, ainsi que les fichiers proxy.c, simpleSocketAPI.h et simpleSocketAPI.c.
+Le proxy.c fait office de main et contient le procesus de dialoge entre le client, le serveur et le proxy.
+Les dux dernier fichiers permettent de créer un socket de connexion.
